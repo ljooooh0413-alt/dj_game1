@@ -1,0 +1,7 @@
+{
+  "name": "Jewel Match 3 (보석 퍼즐 게임)",
+  "description": "눈부신 보석과 화려한 연쇄 콤보를 즐길 수 있는 프리미엄 8x8 보석 매치3 퍼즐 게임. 클래식, 타임어택, 릴랙스 모드 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
